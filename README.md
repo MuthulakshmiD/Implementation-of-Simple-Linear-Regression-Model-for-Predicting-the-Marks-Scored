@@ -8,13 +8,18 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. Store data in a structured format (e.g., CSV, DataFrame).
 
-2. Use a Simple Linear Regression model to fit the training data.
+1.Import the standard Libraries.
 
-3. Use the trained model to predict values for the test set.
+2.Set variables for assigning dataset values.
 
-4. Evaluate performance using metrics like Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+3.Import linear regression from sklearn.
+
+4.Assign the points for representing in the graph.
+
+5.Predict the regression for marks by using the representation of the graph.
+
+6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
 
@@ -73,7 +78,17 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/46d53222-9283-4196-8bfa-ab8b22d69b0e)
+
+![Screenshot 2025-03-14 150713](https://github.com/user-attachments/assets/909b771f-a084-491d-b104-1089c94c9e96)
+![Screenshot 2025-03-14 150823](https://github.com/user-attachments/assets/aa0158e0-5038-45ba-80b2-dfc25b4f7c5d)
+![Screenshot 2025-03-14 150814](https://github.com/user-attachments/assets/d8d55de3-20db-4ef7-ae86-ca5ef3291392)
+![Screenshot 2025-03-14 150807](https://github.com/user-attachments/assets/e31a3eae-f45a-40d1-b982-2ada332bdbbc)
+![Screenshot 2025-03-14 150801](https://github.com/user-attachments/assets/1ab601d7-8feb-4a30-97c4-533f41a08c97)
+![Screenshot 2025-03-14 150752](https://github.com/user-attachments/assets/26a8cdf0-88c0-482c-a73e-23cbff13c925)
+![Screenshot 2025-03-14 150745](https://github.com/user-attachments/assets/0c578d81-1407-4f36-8d9d-4d3abfe9f9cd)
+![Screenshot 2025-03-14 150734](https://github.com/user-attachments/assets/137ae7b5-9ed4-4fdd-8b69-dee7095c9872)
+
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
