@@ -78,17 +78,21 @@ plt.show()
 ```
 
 ## Output:
+![Screenshot 2025-03-14 150713](https://github.com/user-attachments/assets/6699ea83-e5b8-40e5-b05d-654349cf7b7b)
 
-![Screenshot 2025-03-14 150713](https://github.com/user-attachments/assets/909b771f-a084-491d-b104-1089c94c9e96)
-![Screenshot 2025-03-14 150823](https://github.com/user-attachments/assets/aa0158e0-5038-45ba-80b2-dfc25b4f7c5d)
-![Screenshot 2025-03-14 150814](https://github.com/user-attachments/assets/d8d55de3-20db-4ef7-ae86-ca5ef3291392)
-![Screenshot 2025-03-14 150807](https://github.com/user-attachments/assets/e31a3eae-f45a-40d1-b982-2ada332bdbbc)
-![Screenshot 2025-03-14 150801](https://github.com/user-attachments/assets/1ab601d7-8feb-4a30-97c4-533f41a08c97)
-![Screenshot 2025-03-14 150752](https://github.com/user-attachments/assets/26a8cdf0-88c0-482c-a73e-23cbff13c925)
-![Screenshot 2025-03-14 150745](https://github.com/user-attachments/assets/0c578d81-1407-4f36-8d9d-4d3abfe9f9cd)
-![Screenshot 2025-03-14 150734](https://github.com/user-attachments/assets/137ae7b5-9ed4-4fdd-8b69-dee7095c9872)
+![Screenshot 2025-03-14 150734](https://github.com/user-attachments/assets/385fcc62-6b3d-4954-b25f-b8fdb10128e2)
 
+![Screenshot 2025-03-14 150745](https://github.com/user-attachments/assets/26248815-c61d-4f7b-93e9-1b65ce9fe0a5)
 
+![Screenshot 2025-03-14 150752](https://github.com/user-attachments/assets/4fd92284-ce57-4fe1-96c2-948c3c56417a)
+
+![Screenshot 2025-03-14 150801](https://github.com/user-attachments/assets/a80ba3d3-a1a7-4abe-8a81-d6a8949348f5)
+
+![Screenshot 2025-03-14 150807](https://github.com/user-attachments/assets/95af5024-f78a-4239-ab73-4374031a02fa)
+
+![Screenshot 2025-03-14 150814](https://github.com/user-attachments/assets/3394878e-3581-43e0-a2ed-a2843b7f6164)
+
+![Screenshot 2025-03-14 150823](https://github.com/user-attachments/assets/936cdc37-09bf-4268-b751-89d62e6cec9a)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
